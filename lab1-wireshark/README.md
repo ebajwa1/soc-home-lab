@@ -14,10 +14,10 @@ Goal: Capture and explain ARP, ICMP, DNS, TCP handshake, HTTP, TLS in a controll
 4. Installed Wireshark (Windows 11), Wireshark/tcpdump/iperf3 (Ubuntu).
 5. Ran baseline tests: "ipconfig", "ip a", "ping", "traceroute".
 6. Captures:
-   - ARP & ICMP across Host-Only [Capture](./captures/lab01_arp_icmp_capture.pcapng)
-   - DNS via NAT (./captures/lab01_nat_dns_capture.pcapng)
-   - HTTP to Ubuntu local server (./captures/lab01_http_capture.pcapng)
-   - TLS to public HTTPS site (./captures/nat_tls_capture.pcapng)
+   - ARP & ICMP across Host-Only: [Capture](./captures/lab01_arp_icmp_capture.pcapng)
+   - DNS via NAT: [Capture](./captures/lab01_nat_dns_capture.pcapng)
+   - HTTP to Ubuntu local server: [Capture](./captures/lab01_http_capture.pcapng)
+   - TLS to public HTTPS site: [Capture](./captures/nat_tls_capture.pcapng)
 
 ## Key Findings
 - ARP: Observed "who-has" and "is-at" resolving MACs on the Host-Only LAN.
@@ -28,7 +28,7 @@ Goal: Capture and explain ARP, ICMP, DNS, TCP handshake, HTTP, TLS in a controll
 - TLS: ClientHello/ServerHello & SNI visible; application data encrypted.
 
 ## Screenshots & Commands
-- ARP & ICMP [Screenshot](./screenshots/lab01_arp_icmp.png) [Command](./screenshots/lab01_arp_icmp_command.png)
-- DNS Query [Screenshot](./screenshots/lab01_dns.png) [Command](./screenshots/lab01_dns_command.png)
-- TCP Handshake & HTTP [Screenshot](./screenshots/lab01_tcp_handshake_http.png) [Command](/screenshots/lab01_tcp_handshake_http_command.png)
-- TLS Handshake [Screenshot](/screenshots/lab01_tls_handshake.png) [Command](/screenshots/lab01_tls_handshake_command.png)
+- ARP & ICMP: [Screenshot](./screenshots/lab01_arp_icmp.png), [Command](./screenshots/lab01_arp_icmp_command.png)
+- DNS Query: [Screenshot](./screenshots/lab01_dns.png), [Command](./screenshots/lab01_dns_command.png)
+- TCP Handshake & HTTP: [Screenshot](./screenshots/lab01_tcp_handshake_http.png), [Command](/screenshots/lab01_tcp_handshake_http_command.png)
+- TLS Handshake: [Screenshot](/screenshots/lab01_tls_handshake.png), [Command](/screenshots/lab01_tls_handshake_command.png)
