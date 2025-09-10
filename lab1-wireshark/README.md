@@ -14,7 +14,7 @@ Goal: Capture and explain ARP, ICMP, DNS, TCP handshake, HTTP, TLS in a controll
 4. Installed Wireshark (Windows 11), Wireshark/tcpdump/iperf3 (Ubuntu).
 5. Ran baseline tests: "ipconfig", "ip a", "ping", "traceroute".
 6. Captures:
-   - ARP & ICMP across Host-Only (./captures/lab01_arp_icmp_capture.pcapng)
+   - ARP & ICMP across Host-Only [Capture](./captures/lab01_arp_icmp_capture.pcapng)
    - DNS via NAT (./captures/lab01_nat_dns_capture.pcapng)
    - HTTP to Ubuntu local server (./captures/lab01_http_capture.pcapng)
    - TLS to public HTTPS site (./captures/nat_tls_capture.pcapng)
