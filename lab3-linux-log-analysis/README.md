@@ -26,5 +26,5 @@ Goal: Show log monitoring on Ubuntu by capturing failed and successful SSH login
 - Log review lets analysts correlate suspicious authentication behavior across systems.
 
 ## Screenshots
-- SSH Attempts (Windows → Ubuntu) [Screenshot](/screenshots/lab03_win11_login_attempts.png)  
-- Failed Login Output (Windows → Ubuntu) [Screenshot](/screenshots/lab03_failed_output.png)  
+- SSH Attempts (Windows → Ubuntu) [Screenshot](./screenshots/lab03_win11_login_attempts.png)  
+- Failed Login Output (Windows → Ubuntu) [Screenshot](./screenshots/lab03_failed_output.png)  
