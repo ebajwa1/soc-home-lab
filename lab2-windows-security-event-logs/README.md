@@ -22,8 +22,8 @@ Goal: Capture and explain successful and failed login events (4624, 4625) in a W
 - 4625 (Failed logon): Failed authentication attempt, logging username, source, and failure reason.
 - Useful for detecting brute-force or password spray attempts when 4625 spikes occur.
 
-## Screenshots & Commands
-- Filtered Log [Screenshot](/screenshots/lab02_logs.png)
-- Failed Logon Event 4625 [Screenshot](/screenshots/lab02_4625.png)
-- Successful Logon Event 4624 [Screenshot](/screenshots/lab02_4624.png)
-- Exported Log [File](/artifacts/security_auth.evtx)
+## Screenshots
+- Filtered Log [Screenshot](./screenshots/lab02_logs.png)
+- Failed Logon Event 4625 [Screenshot](./screenshots/lab02_4625.png)
+- Successful Logon Event 4624 [Screenshot](./screenshots/lab02_4624.png)
+- Exported Log [File](./Artifacts/security_auth.evtx)

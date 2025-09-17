@@ -9,8 +9,8 @@ Hands on portfolio for SIEM/SOC roles. These labs include networking & Wireshark
 
 ## Labs
 - [Lab 1: Wireshark & Networking](/lab1-wireshark)
-- [Lab 2: SIEM with Wazuh & Sysmon](/lab2-siem-wazuh-sysmon)
-- [Lab 3: Vulnerability Scanning (Greenbone)](/lab3-vuln-scan-greenbone)
+- [Lab 2: Windows Security Evebt Logs (Authentication)](/lab2-windows-security-event-logs)
+- [Lab 3: Linux Log Analysis](/lab3-vuln-scan-greenbone)
 - [Lab 4: Web App Security (DVWA/Juice Shop & Burp)](/lab4-websec-dvwa-juice-shop)
 - [Lab 5: Password Auditing (John/Hashcat)](/lab5-password-auditing)
 - [Lab 6: Threat Intel Dashboard](/lab6-threat-intel-dashboard)
