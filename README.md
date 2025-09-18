@@ -11,7 +11,7 @@ This lab series demonstrates core cybersecurity skills across log analysis, netw
 
 ## Labs
 - [Lab 1: Wireshark & Networking](/lab1-wireshark) -  Capture and analyze ARP, ICMP, DNS, HTTP, and TLS traffic.
-- [Lab 2: Windows Security Evebt Logs (Authentication)](/lab2-windows-security-event-logs) - Collect and analyze Windows authentication events (4624/4625)
+- [Lab 2: Windows Security Event Logs (Authentication)](/lab2-windows-security-event-logs) - Collect and analyze Windows authentication events (4624/4625)
 - [Lab 3: Linux Log Analysis](/lab3-linux-log-analysis) - Analyze Ubuntu SSH authentication logs with `journalctl` and `/var/log/auth.log`
 - [Lab 4: Firewall & Network Hardening](/lab4-firewall-network-hardening) - Configure UFW (Ubuntu) and Windows Defender Firewall for least-privilege network access.
 - [Lab 5: Password Auditing (John/Hashcat)](/lab5-password-auditing)
