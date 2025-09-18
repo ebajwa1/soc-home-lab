@@ -23,4 +23,4 @@ Each lab folder includes:
 - Step-by-step instructions  
 - Commands and configurations  
 - Screenshots and artifacts  
-- Key findings and SOC relevance
+- Key findings
