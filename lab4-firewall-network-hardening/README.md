@@ -39,9 +39,9 @@ Goal: Show host-based firewall management on Ubuntu (UFW) and Windows (Defender 
 - Combined, these changes show practical host-based firewall hardening across Linux and Windows.
 
 ## Screenshots
-- Ubuntu web server setup [Screenshot](./screenshots/lab04_webserver_setup.png)   
-- Ubuntu curl success [Screenshot](./screenshots/lab04_curl_success.png)  
-- Ubuntu UFW status [Screenshot](./screenshots/lab04_ufw_status.png) 
-- Ubuntu curl blocked [Screenshot](./screenshots/lab04_curl_blocked.png) 
-- Windows Firewall inbound ICMP rules [Screenshot](./screenshots/lab04_windows_icmp_disabled.png) 
+- Ubuntu web server setup [Screenshot](./Screenshots/lab04_webserver_setup.png)   
+- Ubuntu curl success [Screenshot](./Screenshots/lab04_curl_success.png)  
+- Ubuntu UFW status [Screenshot](./Screenshots/lab04_ufw_status.png) 
+- Ubuntu curl blocked [Screenshot](./Screenshots/lab04_curl_blocked.png) 
+- Windows Firewall inbound ICMP rules [Screenshot](./Screenshots/lab04_windows_icmp_disabled.png) 
 
