@@ -11,7 +11,7 @@ Hands on portfolio for SIEM/SOC roles. These labs include networking & Wireshark
 - [Lab 1: Wireshark & Networking](/lab1-wireshark)
 - [Lab 2: Windows Security Evebt Logs (Authentication)](/lab2-windows-security-event-logs)
 - [Lab 3: Linux Log Analysis](/lab3-linux-log-analysis)
-- [Lab 4: Web App Security (DVWA/Juice Shop & Burp)](/lab4-websec-dvwa-juice-shop)
+- [Lab 4: Firewall & Network Hardening](/lab4-firewall-network-hardening)
 - [Lab 5: Password Auditing (John/Hashcat)](/lab5-password-auditing)
 - [Lab 6: Threat Intel Dashboard](/lab6-threat-intel-dashboard)
 - [Lab 7: Phishing Awareness (GoPhish & MailHog)](/lab7-phishing-awareness)
